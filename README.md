@@ -5,21 +5,9 @@ Implementación de operaciones CRUD (Create, Read, Update, Delete) para gestión
 
 ## Instrucciones para ejecutar
 
-🚀 Instalación
-Clonar el repositorio:
+## 🚀 Cómo ejecutar
 
-bash
-git clone [tu-repositorio-url]
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/tu-usuario/crud-celulares.git
 cd crud-celulares
-Instalar dependencias:
-
-bash
-npm install
-Configurar entorno (crear archivo .env):
-
-env
-MONGO_URI=mongodb://localhost:27017/celulares-db
-Ejecutar el proyecto:
-
-bash
-npm run dev
