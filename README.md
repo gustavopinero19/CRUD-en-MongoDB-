@@ -5,9 +5,8 @@ Implementación de operaciones CRUD (Create, Read, Update, Delete) para gestión
 
 ## Instrucciones para ejecutar
 
-## 🚀 Cómo ejecutar
-
-1. Clonar el repositorio:
+## 🛠️ Instalación
+1. Clona el repositorio
+2. Instala dependencias:
 ```bash
-git clone https://github.com/tu-usuario/crud-celulares.git
-cd crud-celulares
+npm install
